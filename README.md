@@ -1,6 +1,8 @@
 # CyberERP-The Containerized Odoo ERP
 
 ![](images/odoo-intro.jpg)
+基于Docker的Odoo高可用方案
+===============================
 Odoo is the most popular all-in-one business software in the world. It offers a range of business applications including CRM, website, e-Commerce, billing, accounting, manufacturing, warehouse, project management, inventory and much more, all are seamlessly integrated.
 
 CyberERP is an effort to deploy an enterprise ready  containerized  Open Source Odoo ERP system with several other required and optional containers. This system can be extended to provide highly available Odoo ERP system and it  contains Open Source Odoo ERP software together with several other community provided addon modules. 
